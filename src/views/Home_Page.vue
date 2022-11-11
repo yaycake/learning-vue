@@ -2,6 +2,7 @@
     <div v-show="showAddTask">
         <Add_Task @add-task="addTask"/>
     </div>
+    asdfadsf
     <Task_List 
         @toggle-reminder="toggleReminder" 
         @delete-task="deleteTask" 
