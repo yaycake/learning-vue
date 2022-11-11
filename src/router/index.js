@@ -6,7 +6,7 @@ import Home_Page from "../views/Home_Page"
 const routes = [
     {
         path: '/', 
-        name: 'Home', 
+        name: 'Home_Page', 
         component: Home_Page
     }, 
     {
