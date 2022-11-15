@@ -27,26 +27,14 @@
     {
       "text": "test again",
       "day": "123",
-      "reminder": false,
+      "reminder": true,
       "id": "fhTDU5n"
     },
     {
       "text": "asdf",
       "day": "adsf",
-      "reminder": false,
-      "id": "ZToXsQd"
-    },
-    {
-      "text": "asdasdf",
-      "day": "asdf",
-      "reminder": false,
-      "id": "GeV3Qmb"
-    },
-    {
-      "text": "asdf",
-      "day": "adsf",
       "reminder": true,
-      "id": "sbdgrLY"
+      "id": "ZToXsQd"
     }
   ]
 }
